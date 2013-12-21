@@ -2,6 +2,8 @@
 
 Easy way to type some utf-8 symbols, helpful for command line.
 
+["View the utf8_symbols documentation"](http://omniref.com/ruby/gems/utf8_symbols)
+
 ## Installation
 
 Add this line to your application's Gemfile:
